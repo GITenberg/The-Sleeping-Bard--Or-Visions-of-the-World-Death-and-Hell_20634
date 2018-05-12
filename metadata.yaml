@@ -1,0 +1,41 @@
+_repo: The-Sleeping-Bard--Or-Visions-of-the-World-Death-and-Hell_20634
+_version: 0.1.0
+alternative_title: Gweledigaethau y bardd cwsg. English
+contributor:
+  translator:
+    agent_name: Borrow, George
+    alias: Borrow, George Henry
+    birthdate: 1803
+    deathdate: 1881
+    gutenberg_agent_id: '4383'
+    url: http://www.gutenberg.org/2009/agents/4383
+    wikipedia: http://en.wikipedia.org/wiki/George_Borrow
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wynne, Ellis
+    birthdate: 1671
+    deathdate: 1734
+    gutenberg_agent_id: '1835'
+    url: http://www.gutenberg.org/2009/agents/1835
+    wikipedia: http://en.wikipedia.org/wiki/Ellis_Wynne
+description: ''
+gutenberg_issued: '2007-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20634'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Religious literature, Welsh'
+- !lcsh 'Christian life'
+- !lcsh 'Allegories'
+- !lcsh 'Welsh literature -- 18th century'
+- !lcsh 'Welsh literature -- Translations into English'
+- !lcc 'PB'
+title: The Sleeping Bard; Or, Visions of the World, Death, and Hell
+url: http://www.gutenberg.org/ebooks/20634
