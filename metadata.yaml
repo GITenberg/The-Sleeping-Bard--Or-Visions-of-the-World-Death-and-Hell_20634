@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1835
     wikipedia: http://en.wikipedia.org/wiki/Ellis_Wynne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20634#The-Sleeping-Bard--Or-Visions-of-the-World-Death-and-Hell
 gutenberg_issued: '2007-02-20'
 gutenberg_type: Text
 identifiers:
